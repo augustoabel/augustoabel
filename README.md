@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Augusto Abel 🖐️
 <h5>Tec. Informatica: ✅</h5>
- <h6>Ciência da computação: ✅✅✅✅✅✅⬜️⬜️ </h6>
+ <h6>Ciência da computação: ✅✅✅✅✅✅✅⬜️ </h6>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gusto_abel)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-abel-493500213/) 
